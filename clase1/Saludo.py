@@ -1,0 +1,5 @@
+print("String= variabloe para guardar texto")
+print("Int = variable para guardar numero entero")
+print("float = variable para guardar numero decimal pequeña acntidad")
+print("double = variable para guardar numero decimal grande catidad")
+print("boolean = varibale para guardar datos logico true o falce")
